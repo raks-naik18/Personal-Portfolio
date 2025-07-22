@@ -6,21 +6,6 @@ A responsive and dynamic personal portfolio built using **HTML**, **CSS**, and *
 
 ---
 
-## 📌 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## 🔍 About
 
 This is a **personal portfolio** designed to highlight my:
@@ -47,19 +32,11 @@ It includes modern UI with dark and light theme support, typing animation, and f
 
 ---
 
-## 🌍 Live Demo
-
-🔗 [Visit Portfolio](https://your-username.github.io/your-repo-name)
-
-> Replace with your GitHub Pages link
-
----
-
 ## 🖼️ Screenshots
 
-> Add images or gif links if possible  
-![Dark Mode Preview](Portfolio/result_screenshot/page_in_darkmode.png)  
-![Light Mode Preview](light-mode-preview.png)
+>Dark and light mode screenshot..if other check in result_screenshot 
+![Dark Mode Preview](Portfolio/result_screenshot/page_in_dark_mode.png)  
+![Light Mode Preview](Portfolio/result_screenshot/page_in_light_mode.png)
 
 ---
 
@@ -75,3 +52,5 @@ It includes modern UI with dark and light theme support, typing animation, and f
 | Google Fonts   | Custom font (Segoe UI used)  |
 
 ---
+_For this, I think you all liked it⭐.  
+Thank you! 😊_
